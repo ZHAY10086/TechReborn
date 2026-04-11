@@ -678,3 +678,9 @@ advancements.techreborn.sap.desc=干得好，你现在有了橡胶树脂，你�
 #GUI
 techreborn.auto_output.gui=自动输出
 techreborn.auto_input.gui=自动输入
+
+#Config
+config.cable=线缆设置
+config.cable.uninsulatedElectrocutionDamage=未绝缘线缆伤害
+config.cable.uninsulatedElectrocutionSound=未绝缘线缆音效
+config.cable.uninsulatedElectrocutionParticles=未绝缘线缆粒子效果
